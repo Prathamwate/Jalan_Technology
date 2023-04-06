@@ -1,1 +1,2 @@
-
+## Car Service Project
+  * This project is for a car service station that caters to different types of cars and provides various services. The project is implemented using Object-Oriented Programming (OOPs) concepts in Java. The project has a user interface where the user can select the type of car and the service they want to avail of. The system will then calculate the cost of the service based on the type of car and the service selected.
